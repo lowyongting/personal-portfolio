@@ -1,0 +1,191 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "👋 I'm Low Yong Ting, Malaysian. A Computer Science student majoring in Software Engineering.",
+      "philosophy": "Passionate about creating useful applications for public use and keen to learn IT technologies. Having a strong logical thinking. Skilled at Object-Oriented Programming such as Java and JavaScript, Web Development, Mobile App Development, Relational Database Management System such as MySQL, API and GitHub.",
+      "preference": "",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "DDL ASSOCIATE SDN BHD EMPLOYER PROJECT",
+        "startDate": "Aug 2020 - Dec 2020",
+        "description": "I developed for the entire admin site, debug and integrated the other features developed by teammates into a fully working system",
+        "images": [
+          "images/portfolio/ddl-site/p1.JPG",
+          "images/portfolio/ddl-site/p2.JPG",
+          "images/portfolio/ddl-site/p3.JPG",
+          "images/portfolio/ddl-site/p4.JPG",
+          "images/portfolio/ddl-site/p5.JPG",
+          "images/portfolio/ddl-site/p6.JPG"
+        ],
+        "url": "https://github.com/lowyongting/ddlSite",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "INTI MEDICINE MOBILE APP (ANDROID) ",
+        "startDate": "Aug 2020 - Dec 2020",
+        "description": "It was a group project. Features that I have developed: (i) Covid-19 Tracker & (ii) Symptom checker",
+        "images": [
+          "images/portfolio/medicine-app/p1.png",
+          "images/portfolio/medicine-app/p2.png",
+          "images/portfolio/medicine-app/p3.png",
+          "images/portfolio/medicine-app/p4.png",
+          "images/portfolio/medicine-app/p5.png",
+          "images/portfolio/medicine-app/p6.png"
+        ],
+        "url": "https://github.com/eryanyao/covid-19-health-check",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      {
+        "title": "WEB-BASED BOOK RECOMMENDATION SYSTEM",
+        "startDate": "Jan 2021 - July 2021",
+        "description": "As a final year project done in my university",
+        "images": [
+          "images/portfolio/fyp-brs/p1.JPG",
+          "images/portfolio/fyp-brs/p2.JPG",
+          "images/portfolio/fyp-brs/p3.JPG",
+          "images/portfolio/fyp-brs/p4.JPG",
+          "images/portfolio/fyp-brs/p5.JPG"
+        ],
+        "url": "https://github.com/lowyongting/fyp_BRS",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "schoolName": "Foon Yew High School",
+        "title": "Secondary School",
+        "description": "Graduated as a Commerce Student.",
+        "years": "Jan 2012 - Dec 2017",
+        "typeOfEdu": [
+          "Secondary School"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "schoolName": "Inti International University",
+        "title": "Software Engineering",
+        "description": "Cumulative GPA: 3.09/4.00",
+        "years": "Aug 2018 - Dec 2021",
+        "typeOfEdu": [
+          "Bachelor's Degree"
+        ],
+        "technologies": [
+        ]
+      }
+    ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "",
+          "description": ""
+        }
+      ]
+    },
+    "experience": [
+      {
+        "company": "DVLA",
+        "title": "Graduate Software Engineer",
+        "description": "I work at the DVLA as part of it's MSc graduate development programme. My current role is a trainee engineer where I'm a part of a fast paced and encouraging workforce. My responsibilities includes:",
+        "responsibilities" : [
+          "Providing system support for all environments including our production teams",
+          "Working on technical implementation of apps and infrastructure",
+          "Being involved in with larger in-house projects to meet our customer's requirements",
+          "Supporting the creation of standardised documentation",
+          "Developing skills and understanding of DVLA's tech estate and the process",
+          "Developing, testing and supporting current systems",
+          "Using automated test tools"
+        ],
+        "years": "09.2020 - present",
+        "mainTech": [
+          "Serverless"
+        ],
+        "technologies": [
+          "Agile Development",
+          "DevOps",
+          "Serverless Stack",
+          "AWS",
+          "Spring Framework",
+          "Java",
+          "Unit Testing",
+          "Ruby on Rails"
+        ]
+      }
+    ]
+}
