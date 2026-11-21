@@ -1,191 +1,253 @@
 {
     "basic_info": {
-      "description_header": "Hi!",
-      "description": "👋 I'm Low Yong Ting, Malaysian. A Computer Science student majoring in Software Engineering.",
-      "philosophy": "Passionate about creating useful applications for public use and keen to learn IT technologies. Having a strong logical thinking. Skilled at Object-Oriented Programming such as Java and JavaScript, Web Development, Mobile App Development, Relational Database Management System such as MySQL, API and GitHub.",
-      "preference": "",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "education": "Education",
-        "expertise": "Expertise",
-        "experience": "Experience"
-      }
+        "description_header": "Software engineering · Singapore",
+        "description": "I'm a Senior Software Engineer at Ufinity, building and supporting Singapore government systems.",
+        "philosophy": "Full-stack developer with four years of experience delivering and supporting Singapore government systems across AWS GCC environments. Experienced in turning operational requirements into working features, diagnosing production issues, supporting UAT, remediating security findings, and collaborating with cross-functional teams.",
+        "section_name": {
+            "about": "About",
+            "experience": "Experience",
+            "projects": "Projects",
+            "education": "Education & Certification",
+            "skills": "Skills",
+            "contact": "Contact"
+        }
     },
     "projects": [
-      {
-        "title": "DDL ASSOCIATE SDN BHD EMPLOYER PROJECT",
-        "startDate": "Aug 2020 - Dec 2020",
-        "description": "I developed for the entire admin site, debug and integrated the other features developed by teammates into a fully working system",
-        "images": [
-          "images/portfolio/ddl-site/p1.JPG",
-          "images/portfolio/ddl-site/p2.JPG",
-          "images/portfolio/ddl-site/p3.JPG",
-          "images/portfolio/ddl-site/p4.JPG",
-          "images/portfolio/ddl-site/p5.JPG",
-          "images/portfolio/ddl-site/p6.JPG"
-        ],
-        "url": "https://github.com/lowyongting/ddlSite",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "INTI MEDICINE MOBILE APP (ANDROID) ",
-        "startDate": "Aug 2020 - Dec 2020",
-        "description": "It was a group project. Features that I have developed: (i) Covid-19 Tracker & (ii) Symptom checker",
-        "images": [
-          "images/portfolio/medicine-app/p1.png",
-          "images/portfolio/medicine-app/p2.png",
-          "images/portfolio/medicine-app/p3.png",
-          "images/portfolio/medicine-app/p4.png",
-          "images/portfolio/medicine-app/p5.png",
-          "images/portfolio/medicine-app/p6.png"
-        ],
-        "url": "https://github.com/eryanyao/covid-19-health-check",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
-          },
-          {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          }
-        ]
-      },
-      {
-        "title": "WEB-BASED BOOK RECOMMENDATION SYSTEM",
-        "startDate": "Jan 2021 - July 2021",
-        "description": "As a final year project done in my university",
-        "images": [
-          "images/portfolio/fyp-brs/p1.JPG",
-          "images/portfolio/fyp-brs/p2.JPG",
-          "images/portfolio/fyp-brs/p3.JPG",
-          "images/portfolio/fyp-brs/p4.JPG",
-          "images/portfolio/fyp-brs/p5.JPG"
-        ],
-        "url": "https://github.com/lowyongting/fyp_BRS",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          }
-        ]
-      }
+        {
+            "title": "DDL Associate Sdn Bhd Employer Project",
+            "startDate": "Aug 2020 - Dec 2020",
+            "description": "I developed for the entire admin site, debug and integrated the other features developed by teammates into a fully working system",
+            "images": [
+                "images/portfolio/ddl-site/p1.JPG",
+                "images/portfolio/ddl-site/p2.JPG",
+                "images/portfolio/ddl-site/p3.JPG",
+                "images/portfolio/ddl-site/p4.JPG",
+                "images/portfolio/ddl-site/p5.JPG",
+                "images/portfolio/ddl-site/p6.JPG"
+            ],
+            "url": "https://github.com/lowyongting/ddlSite",
+            "technologies": [
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML 5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS 3"
+                },
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-php-plain",
+                    "name": "PHP"
+                },
+                {
+                    "class": "devicon-git-plain",
+                    "name": "Git"
+                },
+                {
+                    "class": "devicon-mysql-plain",
+                    "name": "MySQL"
+                }
+            ]
+        },
+        {
+            "title": "INTI Medicine Mobile App (Android)",
+            "startDate": "Aug 2020 - Dec 2020",
+            "description": "It was a group project. Features that I have developed: (i) Covid-19 Tracker & (ii) Symptom checker",
+            "images": [
+                "images/portfolio/medicine-app/p1.png",
+                "images/portfolio/medicine-app/p2.png",
+                "images/portfolio/medicine-app/p3.png",
+                "images/portfolio/medicine-app/p4.png",
+                "images/portfolio/medicine-app/p5.png",
+                "images/portfolio/medicine-app/p6.png"
+            ],
+            "url": "https://github.com/eryanyao/covid-19-health-check",
+            "technologies": [
+                {
+                    "class": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "class": "devicon-firebase-plain",
+                    "name": "Firebase"
+                },
+                {
+                    "class": "devicon-android-plain",
+                    "name": "Android"
+                },
+                {
+                    "class": "devicon-git-plain",
+                    "name": "Git"
+                }
+            ]
+        },
+        {
+            "title": "Web-Based Book Recommendation System",
+            "startDate": "Jan 2021 - July 2021",
+            "description": "As a final year project done in my university",
+            "images": [
+                "images/portfolio/fyp-brs/p1.JPG",
+                "images/portfolio/fyp-brs/p2.JPG",
+                "images/portfolio/fyp-brs/p3.JPG",
+                "images/portfolio/fyp-brs/p4.JPG",
+                "images/portfolio/fyp-brs/p5.JPG"
+            ],
+            "url": "https://github.com/lowyongting/fyp_BRS",
+            "technologies": [
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-php-plain",
+                    "name": "PHP"
+                },
+                {
+                    "class": "devicon-mysql-plain",
+                    "name": "MySQL"
+                },
+                {
+                    "class": "devicon-git-plain",
+                    "name": "Git"
+                }
+            ]
+        }
     ],
     "education": [
-      {
-        "schoolName": "Foon Yew High School",
-        "title": "Secondary School",
-        "description": "Graduated as a Commerce Student.",
-        "years": "Jan 2012 - Dec 2017",
-        "typeOfEdu": [
-          "Secondary School"
-        ],
-        "technologies": [
-        ]
-      },
-      {
-        "schoolName": "Inti International University",
-        "title": "Software Engineering",
-        "description": "Cumulative GPA: 3.09/4.00",
-        "years": "Aug 2018 - Dec 2021",
-        "typeOfEdu": [
-          "Bachelor's Degree"
-        ],
-        "technologies": [
-        ]
-      }
+        {
+            "schoolName": "National University of Singapore (NUS)",
+            "title": "NUS Certified Software Developer",
+            "description": "Issued May 2024 · Expires Apr 2027",
+            "years": "May 2024",
+            "typeOfEdu": [
+                "Certification"
+            ],
+            "technologies": []
+        },
+        {
+            "schoolName": "INTI International University, Negeri Sembilan, Malaysia",
+            "title": "Bachelor Degree of Computer Science",
+            "description": "Cumulative GPA: 3.09/4.00",
+            "years": "Aug 2018 - Apr 2022",
+            "typeOfEdu": [
+                "Bachelor's Degree"
+            ],
+            "technologies": []
+        },
+        {
+            "schoolName": "Foon Yew High School, Malaysia",
+            "title": "Secondary High School",
+            "description": "Graduated as a Commerce Student.",
+            "years": "Jan 2012 - Dec 2017",
+            "typeOfEdu": [
+                "Secondary School"
+            ],
+            "technologies": []
+        }
     ],
     "expertise": {
-      "icons": [
-        {
-          "title": "",
-          "description": ""
-        }
-      ]
+        "icons": [
+            {
+                "title": "",
+                "description": ""
+            }
+        ]
     },
     "experience": [
-      {
-        "company": "DVLA",
-        "title": "Graduate Software Engineer",
-        "description": "I work at the DVLA as part of it's MSc graduate development programme. My current role is a trainee engineer where I'm a part of a fast paced and encouraging workforce. My responsibilities includes:",
-        "responsibilities" : [
-          "Providing system support for all environments including our production teams",
-          "Working on technical implementation of apps and infrastructure",
-          "Being involved in with larger in-house projects to meet our customer's requirements",
-          "Supporting the creation of standardised documentation",
-          "Developing skills and understanding of DVLA's tech estate and the process",
-          "Developing, testing and supporting current systems",
-          "Using automated test tools"
-        ],
-        "years": "09.2020 - present",
-        "mainTech": [
-          "Serverless"
-        ],
-        "technologies": [
-          "Agile Development",
-          "DevOps",
-          "Serverless Stack",
-          "AWS",
-          "Spring Framework",
-          "Java",
-          "Unit Testing",
-          "Ruby on Rails"
-        ]
-      }
+        {
+            "company": "Ufinity Pte Ltd",
+            "title": "Senior Software Engineer",
+            "years": "Jul 2022 - Present",
+            "mainTech": [
+                "Full-Stack Development"
+            ],
+            "roles": [
+                {
+                    "title": "Senior Software Engineer",
+                    "projects": [
+                        {
+                            "name": "HDB E-Service Listing",
+                            "highlights": [
+                                "Investigated and resolved production incidents within agreed SLA timelines, supporting service stability and timely incident closure.",
+                                "Provided operational and technical support during housing sales launch periods.",
+                                "Performed weekly post-deployment verification to validate application functionality and service stability.",
+                                "Analyzed and responded to user enquiries on an ad hoc basis, investigating reported issues and providing appropriate resolutions or clarifications.",
+                                "Developed and delivered two Service Requests (SRs) — the Family Care Scheme Joint Balloting enhancement and Subsidy Recovery Rate information enhancements for the Project Details and Watchlist modules — across the full SDLC."
+                            ]
+                        },
+                        {
+                            "name": "SSG Training Allowance System (TAS)",
+                            "highlights": [
+                                "Developed and delivered four features across the Public and Agency Portals: Submit Application, Report Generation, Create Application, and Adjust Training Allowance.",
+                                "Supported UAT by reviewing test steps and expected results, tracking findings in Jira, responding to user queries, and investigating and resolving reported defects.",
+                                "Developed and delivered the Approval Workflow feature for the Agency Portal as part of Phase 2, following the successful rollout of Phase 1."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "projects": [
+                        {
+                            "name": "eSub SR180 – CAM & CAP Onboarding",
+                            "highlights": [
+                                "Implemented UI enhancements and collaborated with a backend developer to develop and test CAM onboarding changes based on technical specifications, including the migration from LDAP authentication to Keycloak Single Sign-On."
+                            ]
+                        },
+                        {
+                            "name": "MHA eMART2 GCC Migration",
+                            "highlights": [
+                                "Tested and debugged migrated services in the new Government Commercial Cloud (GCC) environment in collaboration with cross-functional teams.",
+                                "Remediated VAPT, Nexus IQ, and SonarQube findings arising from library upgrades within the existing codebase.",
+                                "Executed performance testing using JMeter in the migrated GCC environment.",
+                                "Supported PGP operations through ticket and email handling, implemented audit logging, and monitored DataSunrise database firewall events.",
+                                "Developed and delivered the Multiple Active Persona Change Request (CR) in collaboration with the development team.",
+                                "Updated existing technical specifications and user guides to support operational handover."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "technologies": [
+                "Angular",
+                "React",
+                "Java",
+                "AWS GCC",
+                "MySQL",
+                "PostgreSQL",
+                "Jira",
+                "Confluence"
+            ]
+        },
+        {
+            "company": "Qinetics Solutions Sdn Bhd",
+            "title": "Intern",
+            "years": "Jan 2022 - Apr 2022",
+            "mainTech": [
+                "Internship"
+            ],
+            "projects": [
+                {
+                    "name": "Webnic Admin Portal",
+                    "highlights": [
+                        "Developed and implemented a language translation feature for the Webnic Admin Portal.",
+                        "Prepared technical specifications and executed test cases to identify hidden defects, troubleshoot issues, and implement the required fixes."
+                    ]
+                }
+            ],
+            "technologies": []
+        }
     ]
 }
